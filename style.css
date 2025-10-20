@@ -61,7 +61,7 @@ body{font-family: 'Montserrat', sans-serif;}
     padding: 0 5px;
     line-height: 25px;
     font-size: 14px;
-    color: #000;
+    color: #000000;
 }
 
 #education h3 {
@@ -99,7 +99,7 @@ body{font-family: 'Montserrat', sans-serif;}
 #work table td {
     padding: 5px;
     font-size: 14px;
-    color: #000;
+    color: #000000;
 }
 
 #work table tr.work-1 td:first-child {
@@ -128,7 +128,7 @@ body{font-family: 'Montserrat', sans-serif;}
 #bio-data table td {
     padding: 8px;
     font-size: 15px;
-    color: #000;
+    color: #000000;
 }
 
 #bio-data table tr td:first-child {
